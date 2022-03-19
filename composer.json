@@ -1,0 +1,28 @@
+{
+    "name": "mahdi/freamwork",
+    "description": "modern fream worl",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mahdi Barati",
+            "email": "mahdibarati696@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\":"Core/",
+            "App\\": "App/"
+        },
+        "files": [
+            "Helpers/Helper.php"
+        ]
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}

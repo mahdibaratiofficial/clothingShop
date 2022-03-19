@@ -1,0 +1,1328 @@
+[16-Mar-2022 11:57:15 Europe/Berlin] 
+<h1>Error Message : Route ` App/Views/main/css/style.css ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('App/Views/main/...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:15 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/logo.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/lo...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/heart.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/he...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/user.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/us...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/bag.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/ba...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-6.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-6...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-1.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` App/Views/main/css/style.css ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('App/Views/main/...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` jquery-2.2.4.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('jquery-2.2.4.mi...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/classy-nav.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/classy-n...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/bootstrap.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/bootstra...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/popper.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/popper.m...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/plugins.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/plugins....')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-1.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-1...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/active.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/active.j...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/bootstrap.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/bootstra...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/plugins.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/plugins....')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/classy-nav.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/classy-n...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/active.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/active.j...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-3.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-3...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-4.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-4...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-2.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-2...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-3.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-5.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-5...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-2.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand4.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand3.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand2.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-5.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand1.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-4.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand5.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand6.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 11:57:17 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/logo2.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/lo...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` App/Views/main/css/style.css ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('App/Views/main/...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/logo.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/lo...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-6.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-6...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/heart.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/he...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/user.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/us...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/bag.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/ba...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-1.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-2.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-3.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-4.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-5.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand1.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand2.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand3.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand4.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` jquery-2.2.4.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('jquery-2.2.4.mi...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/popper.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/popper.m...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/plugins.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/plugins....')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/bootstrap.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/bootstra...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/classy-nav.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/classy-n...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/active.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/active.j...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand5.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand6.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/logo2.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/lo...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-1.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-1...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-2.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-2...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-3.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-3...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-4.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-4...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-5.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-5...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/plugins.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/plugins....')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/classy-nav.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/classy-n...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/active.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/active.j...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:01:30 Europe/Berlin] 
+<h1>Error Message : Route ` favicon.ico ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('favicon.ico')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` css/style.css ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('css/style.css')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/heart.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/he...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/logo.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/lo...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/user.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/us...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-6.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-6...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/bag.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/ba...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-1.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand1.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-5.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-3.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand2.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-4.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-2.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` jquery-2.2.4.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('jquery-2.2.4.mi...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/classy-nav.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/classy-n...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/bootstrap.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/bootstra...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/active.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/active.j...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/popper.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/popper.m...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-1.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-1...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/plugins.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/plugins....')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/bootstrap.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/bootstra...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/plugins.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/plugins....')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/classy-nav.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/classy-n...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/active.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/active.j...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-3.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-3...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-4.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-4...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-2.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-2...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-5.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-5...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand4.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:48 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand3.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:49 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand6.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:49 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/logo2.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/lo...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:05:49 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand5.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` css/style.css ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('css/style.css')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/logo.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/lo...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-6.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-6...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/heart.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/he...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/bag.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/ba...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/user.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/us...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-1.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-2.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-3.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-4.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-5.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand1.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand2.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand3.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand4.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand5.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand6.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/logo2.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/lo...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` jquery-2.2.4.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('jquery-2.2.4.mi...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/bootstrap.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/bootstra...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/popper.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/popper.m...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/plugins.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/plugins....')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/active.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/active.j...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/classy-nav.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/classy-n...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-2.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-2...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-1.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-1...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-3.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-3...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-4.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-4...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-5.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-5...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/bootstrap.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/bootstra...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/plugins.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/plugins....')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/classy-nav.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/classy-n...')
+#1 {main} </pre>
+
+[16-Mar-2022 12:32:16 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/active.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/active.j...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` css/style.css ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('css/style.css')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-6.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-6...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/logo.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/lo...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/user.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/us...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/bag.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/ba...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/heart.svg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/he...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-2.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-1.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-3.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-4.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/product-img/product-5.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/product-img...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand1.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand2.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand3.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand4.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand5.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/brand6.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/br...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/core-img/logo2.png ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/core-img/lo...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` jquery-2.2.4.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('jquery-2.2.4.mi...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/popper.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/popper.m...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/bootstrap.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/bootstra...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/plugins.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/plugins....')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/classy-nav.min.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/classy-n...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` src/js/active.js ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('src/js/active.j...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-1.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-1...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-2.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-2...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-3.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-3...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-4.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-4...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` img/bg-img/bg-5.jpg ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('img/bg-img/bg-5...')
+#1 {main} </pre>
+
+[16-Mar-2022 13:58:51 Europe/Berlin] 
+<h1>Error Message : Route ` favicon.ico ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(13): Core\Router->disPatch('favicon.ico')
+#1 {main} </pre>
+
+[16-Mar-2022 14:36:19 Europe/Berlin] 
+<h1>Error Message : Route ` favicon.ico ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(16): Core\Router->disPatch('favicon.ico')
+#1 {main} </pre>
+
+[16-Mar-2022 14:36:55 Europe/Berlin] 
+<h1>Error Message : Route ` favicon.ico ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(17): Core\Router->disPatch('favicon.ico')
+#1 {main} </pre>
+
+[16-Mar-2022 14:48:20 Europe/Berlin] 
+<h1>Error Message : Route ` sad ` Not Found</h1>
+
+<h4> File : C:\xampp\htdocs\freamwork\Core\Router.php in Line : 63</h4>
+
+<pre> #0 C:\xampp\htdocs\freamwork\Public\index.php(6): Core\Router->disPatch('sad')
+#1 {main} </pre>
+
