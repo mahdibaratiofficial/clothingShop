@@ -13,7 +13,6 @@ class session
      * */
     public function create_login_session($user_id)
     {
-
         $this->session_name = [
             "id" => $user_id,
             "create_at" => time(),
