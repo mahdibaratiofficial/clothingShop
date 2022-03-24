@@ -1,18 +1,16 @@
-<?php
+<?php namespace App\Controllers;
 
-namespace App\Controllers;
-
-use Core\Controller;
 use Core\View;
 
-class HomeController extends Controller
+class HomeController
 {
     public function index()
     {
-
-        return View::Render('main/index', [
-            "page" => "pages/main"
-       ]);
+        return View::Render("index",[
+            'page'=>"salam"
+        ]);
     }
-       
+    public function home(){
+        echo "Wellcome to Home";
+    }
 }
