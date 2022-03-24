@@ -7,7 +7,7 @@ class session
 
     /*
      * create session function
-     * @param string
+     * @param integer
      * @return array
      * @author me
      * */
